@@ -13,7 +13,7 @@ Just click on the `morphemes` folder above and Github will let you see any markd
 
 It's an English language dictionary of Dutch Morphemes. 
 
-The word selection are taken from the fantastic book "Nederlands in Actie" by Berna de Boer, Margaret van der Kamp, Simone Pentermann. 
+The initial word selection was taken from the fantastic book "Nederlands in Actie" by Berna de Boer, Margaret van der Kamp, Simone Pentermann. But increasingly it is filled with words that interest me. 
 
 ## Why do this?
 
@@ -36,6 +36,14 @@ For linguistics, it continues to be an excellent model due to its parameter size
 ## Errata
 
 If you find something wrong, please open an issue. 
+
+If you want to add more words, please use the previously mentioned model with the prompt:
+
+```commandline
+From a linguistic perspective, please break up and explain the morphemes in the Dutch word: "`{word}`"'
+```
+
+And submit a PR. 
 
 
 # License

@@ -23,7 +23,7 @@ The other major reason is because the wonder of Dutch is that the language is co
 
 First, the Dutch word _handschoenen_ translates into the English word "gloves". It's composed of "hand" which translates into "hand", like the kind with fingers, and "schoenen" which translates into "shoes". So the Dutch word for "gloves" is actually "hand shoes".
 
-Second, the Dutch verb "verwachten" translates into the English verb to "expect". It's composed to "ver" which means "away from" and "wachten" which means "to wait". So the Dutch word for "expect" is to "away wait".
+Second, the Dutch verb _verwachten_ translates into the English verb to "expect". It's composed to "ver" which means "away from" and "wachten" which means "to wait". So the Dutch word for "expect" is to "away wait".
 
 A large proportion of the Dutch language is put together in this way.
 

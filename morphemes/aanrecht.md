@@ -1,65 +1,53 @@
-From a linguistic perspective, the Dutch word **`aanrecht`** is a classic example of a **compound noun** (*samenstelling*). To understand it fully, we must look at its surface morphology (how it is built today) and its deep etymology (where the meanings originated).
+From a linguistic perspective, the Dutch word **`aanrecht`** is a **compound noun** (samenstelling). It consists of two distinct morphemes that combine to create a specific semantic meaning.
 
-Here is the breakdown:
+Here is the breakdown and explanation of the morphemes:
 
-### 1. Surface Morphological Segmentation
-Visually and structurally, the word consists of two free morphemes joined together without a linking element (like *-s-* or *-e-*).
+### 1. Morphological Segmentation
+The word can be segmented as follows:
+> **`aan`** + **`recht`** = **`aanrecht`**
 
-*   **Word:** `aanrecht`
-*   **Segmentation:** `aan` + `recht`
-*   **Part of Speech:** Noun (Neuter: *het aanrecht*)
-*   **Meaning:** Kitchen counter / worktop.
+Both components are **free morphemes** (they can stand alone as words), but in this specific compound, they function together to create a new lexical unit.
 
 ---
 
-### 2. Morpheme Analysis
+### 2. Analysis of Morpheme 1: `aan`
+*   **Part of Speech:** Preposition (functioning as a prefix in this compound).
+*   **Literal Meaning:** "on," "at," "to," "against," or "attached to."
+*   **Etymology:** Derived from Old Dutch *an*, cognate with German *an* and English *on*.
+*   **Function in Compound:** It indicates **location** or **attachment**. It specifies that the object denoted by the second morpheme is situated *against* something (usually a wall) or is fixed in place.
 
-#### Morpheme A: `aan`
-*   **Type:** Preposition (functioning as a prefix in this compound).
-*   **Literal Meaning:** "on", "at", "to", or "against".
-*   **Function:** In this compound, it acts as a **modifier**. It indicates location or attachment. It suggests something placed *against* a wall or *on* a specific surface.
-*   **Cognates:** English *on*, German *an*.
-
-#### Morpheme B: `recht`
-*   **Type:** Adjective (functioning as the head noun in this compound).
-*   **Literal Meaning:** "straight", "right", or "law".
-*   **Function:** This is the **head** of the compound. The word refers to a type of *recht* (surface/table).
-*   **Cognates:** English *right*, German *recht*.
-
----
-
-### 3. Deep Etymology & Semantic Shift
-While the surface breakdown is `aan` + `recht`, the linguistic history reveals a more complex semantic evolution.
-
-**The Root: *Richten***
-The morpheme `recht` in this specific word is not derived from the adjective meaning "straight" (as in *een rechte lijn*), but rather from the verb **`richten`** (to arrange, to set up, to direct).
-*   **Old/Middle Dutch:** The word originates from Middle Dutch *anrechte*.
-*   **Verb Connection:** It is derived from the phrasal verb **`aanrechten`**.
-    *   *Aanrechten* means "to serve" (food) or "to set the table."
-    *   Therefore, the *aanrecht* is literally **"the place where things are set up/served."**
-
-**Semantic Shift:**
-1.  **Original:** A table or surface where food was arranged/served (*aanrechten*).
-2.  **Evolution:** Over time, the specific furniture piece associated with food preparation and serving became known as the *aanrecht*.
-3.  **Modern:** It now specifically refers to the **kitchen counter** or worktop, regardless of whether food is currently being served on it.
-
-*Note: This explains why the German cognate is **`Anrichte`** (a sideboard or buffet table), which retains the meaning of a piece of furniture used for serving.*
+### 3. Analysis of Morpheme 2: `recht`
+*   **Part of Speech:** Noun (historically derived from an adjective/verb).
+*   **Literal Meaning:** In modern Dutch, *recht* usually means "right" (direction), "straight," or "law." However, in the context of *aanrecht*, it carries an archaic meaning.
+*   **Etymology:** Derived from Middle Dutch *rechte*. This is related to the verb *rechten* (to straighten, to arrange, to set up) and the adjective *recht* (straight/level).
+*   **Semantic Shift:** In Middle Dutch, a *rechte* referred to a **table, bench, or flat surface**. The logic is that a table is a "straight" or "level" surface.
+*   **Function in Compound:** It denotes the **object** itself (the surface/table).
 
 ---
 
-### 4. Syntactic Structure
-In Dutch morphology, this is an **Endocentric Compound**.
-*   **Head:** `recht` (The core meaning is a type of surface/table).
-*   **Modifier:** `aan` (Specifies the location or nature of the surface).
-*   **Rule:** The gender of the compound is determined by the head noun. Since *recht* (in this context) is neuter (*het*), the compound is **`het aanrecht`**.
+### 4. Semantic Composition (How the meaning is built)
+When combined, the morphemes create an **endocentric compound**, where the meaning is a specific type of the head noun (`recht`).
 
-### 5. Summary Table
+*   **Literal Construction:** "At-table" or "Table-against."
+*   **Historical Context:** Historically, this referred to a wooden table or bench that was placed **against the wall** in a kitchen or pantry, as opposed to a free-standing dining table in the middle of the room.
+*   **Modern Meaning:** Over time, the meaning narrowed. It no longer refers to any table against a wall, but specifically to the **kitchen worktop** or **countertop** (often including the sink area).
 
-| Morpheme | Surface Form | Deep Etymology | Function | Meaning Contribution |
-| :--- | :--- | :--- | :--- | :--- |
-| **1** | `aan` | Preposition | Modifier | "Against" / "On" |
-| **2** | `recht` | Verb *richten* (to arrange) | Head | "Arranged surface" / "Table" |
-| **Total** | **`aanrecht`** | Noun | Compound | "Kitchen Counter" |
+### 5. Linguistic Comparison & Cognates
+To understand the morphology better, it helps to look at related Germanic languages:
+
+*   **German:** *Anrichte* (Sideboard / Kitchen counter).
+    *   Structure: *An-* (at) + *Richte* (related to *richten* - to arrange/straighten).
+    *   This confirms the etymological link between "straightening/arranging" and the "surface/table."
+*   **English:** *Right* (Cognate).
+    *   While English *right* shares the same Proto-Germanic root (*rehtaz*) as Dutch *recht*, English lost the specific noun meaning of "table/surface" that Dutch retained in this compound.
+
+### Summary Table
+
+| Morpheme | Type | Original Meaning | Role in Compound |
+| :--- | :--- | :--- | :--- |
+| **`aan`** | Preposition | On / Against | Indicates position (fixed against a wall). |
+| **`recht`** | Noun (archaic) | Table / Bench / Level Surface | The object itself (the work surface). |
+| **`aanrecht`** | Compound Noun | Table against the wall | **Kitchen counter / Worktop.** |
 
 ### Conclusion
-Linguistically, **`aanrecht`** is a fossilized compound. While modern speakers parse it as "on" + "straight/right," its true linguistic heritage is "on" + "arranged" (from *richten*). It is a noun formed from a verbal concept (*aanrechten* - to serve), illustrating how Dutch frequently nominalizes actions to create words for objects associated with those actions.
+Linguistically, **`aanrecht`** is a fossilized compound. While a modern Dutch speaker might not consciously analyze *recht* as meaning "table," the word preserves an older semantic layer where *recht* denoted a flat, level surface. The prefix *aan* locates that surface against a wall, distinguishing it from a central dining table.

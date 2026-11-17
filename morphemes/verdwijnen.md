@@ -1,55 +1,62 @@
-From a linguistic perspective, the Dutch verb **`verdwijnen`** (meaning "to disappear" or "to vanish") is a morphologically complex word. It can be segmented into three distinct morphemes: a derivational prefix, a lexical root, and an inflectional suffix.
+From a linguistic perspective, the Dutch verb **`verdwijnen`** (to disappear / to vanish) can be segmented into three distinct morphemes.
 
 Here is the breakdown:
 
-### 1. Morphological Segmentation
-**`ver-`** + **`dwijn`** + **`-en`**
-
-| Morpheme | Type | Function |
-| :--- | :--- | :--- |
-| **`ver-`** | Prefix | Derivational (changes meaning/word class) |
-| **`dwijn`** | Root | Lexical (carries core meaning) |
-| **`-en`** | Suffix | Inflectional (marks infinitive) |
+### 1. Segmentation
+**`ver`** + **`dwijn`** + **`en`**
 
 ---
 
-### 2. Detailed Morpheme Analysis
+### 2. Morpheme Analysis
 
 #### A. The Prefix: `ver-`
-*   **Type:** Derivational Prefix.
-*   **Function:** In Dutch, `ver-` is one of the most common and productive prefixes. It generally indicates a **change of state**, a **transition**, or a **completion** of an action. It often carries a sense of "away," "thoroughly," or "into a new condition."
-*   **Semantics in this context:** When attached to the root *dwijn*, `ver-` intensifies the action. It transforms the concept of "diminishing" into "disappearing completely" or "vanishing away."
-*   **Cognates:** This prefix is cognate with the German `ver-` (e.g., *verschwinden*) and the English `for-` (in older English, e.g., *forgive*, *forget*), though the English `for-` is less productive today.
+*   **Type:** Derivational Prefix (Inseparable).
+*   **Function:** This prefix modifies the meaning of the root verb. In Dutch, `ver-` is one of the most common verbal prefixes. It often indicates a change of state, a transition, or a process that leads to a result (sometimes implying "away" or "thoroughly").
+*   **Grammar:** It is an **inseparable** prefix. This means that in conjugated forms, the prefix remains attached to the verb, and the grammatical stress falls on the root, not the prefix.
+    *   *Example:* *Ik **verdwijn*** (I disappear) — Stress is on *dwijn*.
+    *   *Contrast:* In separable verbs (like *opbellen*), the prefix moves to the end of the sentence.
+*   **Etymology:** Derived from Proto-Germanic *\*far-*, related to the English prefix *for-* (as in *forget* or *forbid*).
 
 #### B. The Root: `dwijn`
-*   **Type:** Bound Root (Lexeme).
-*   **Status:** In modern Dutch, `dwijn` is **not a free morpheme**. You cannot use it as a standalone verb (e.g., you cannot say *"Ik dwijn"*). It is a "bound root," meaning it only exists within derived words like *verdwijnen*.
-*   **Etymology:** It stems from the Middle Dutch *dwīnen* and the Proto-Germanic root **\*dwīnaną**, meaning "to waste away," "to diminish," or "to fade."
-*   **Cognates:** The closest English cognate is the verb **`to wane`** (as in "the moon wanes").
-    *   *Linguistic Note:* The initial *d-* in Dutch corresponds to the *w-* in English due to sound shifts in the West Germanic branch. Both words share the same ancient Germanic ancestry regarding the concept of fading or decreasing in size/strength.
+*   **Type:** Bound Root (Lexical Morpheme).
+*   **Status:** This is a **bound morpheme**, meaning it cannot stand alone as an independent word in Modern Dutch. You cannot say "Ik dwijn."
+*   **Meaning:** Historically, this root carried the meaning of "to fade," "to waste away," or "to diminish."
+*   **Etymology & Cognates:** This is the most linguistically interesting part of the word.
+    *   It stems from Middle Dutch *dwijnen*.
+    *   It is cognate with the Old High German *wīnan* and the Proto-Germanic *\*wīnaną*.
+    *   **English Connection:** It is etymologically related to the English word **`wane`** (as in "the moon wanes"). Both words share the core semantic concept of "fading away" or "decreasing in size/strength."
+*   **Phonology:** In the spelling, `ij` represents the diphthong /ɛi̯/ (similar to the 'i' in English "eye").
 
 #### C. The Suffix: `-en`
 *   **Type:** Inflectional Suffix.
-*   **Function:** This is the standard marker for the **infinitive** form of Dutch verbs. It indicates that the word is the dictionary form of the verb, not conjugated for a specific person or tense.
-*   **Grammar:** Almost all Dutch verbs end in `-en` in the infinitive (e.g., *lopen*, *werken*, *zien*).
+*   **Function:** This marks the **infinitive** form of the verb.
+*   **Grammar:** In Dutch, the vast majority of verbs take `-en` in their dictionary form. In spoken Dutch, the final `-n` is often elided (dropped), resulting in a schwa sound /ə/ at the end.
+    *   *Written:* `verdwijnen`
+    *   *Spoken:* /vərˈdʋɛi̯nə/
 
 ---
 
-### 3. Semantic Composition (How the meaning is built)
+### 3. Semantic Synthesis
+When you combine these morphemes, the meaning evolves through a specific logical path:
 
-To understand the full meaning linguistically, we look at how the morphemes combine:
+1.  **`dwijn`**: The core concept of "fading" or "wasting away."
+2.  **`ver-`**: Adds the sense of completion or transition into a state of "gone-ness."
+3.  **`-en`**: Marks it as an action (verb).
 
-1.  **`dwijn`** (Core concept): To diminish, to waste away, to fade.
-2.  **`ver-`** (Modifier): To do so completely, or to move away from existence.
-3.  **`-en`** (Form): To be able to do this action (infinitive).
+**Literal Translation:** "To fade away completely."
+**Actual Meaning:** "To disappear" or "to vanish."
 
-**Literal Construction:** "To [completely] [waste away] [verb]."
-**Resulting Meaning:** "To disappear."
+### 4. Summary Table
 
-### 4. Synchronic vs. Diachronic Perspective
+| Morpheme | Type | Meaning/Function | Cognate (English) |
+| :--- | :--- | :--- | :--- |
+| **ver-** | Prefix | Change of state / Away | *for-* (in *forget*) |
+| **dwijn** | Root | To fade / waste away | *wane* |
+| **-en** | Suffix | Infinitive marker | *-en* (in *to walk*) |
 
-*   **Diachronic (Historical):** Historically, `dwijnen` was a standalone verb. Over time, it fell out of common usage, leaving `verdwijnen` as the only surviving form.
-*   **Synchronic (Modern):** For a modern Dutch speaker, the word is often treated as a single lexical unit. While linguists can break it down into `ver-` + `dwijn`, the average speaker does not actively analyze the root `dwijn` because it has no independent meaning in their mental lexicon. This makes `verdwijnen` a case of **morphological opacity**; the internal structure is visible to etymologists but opaque to the casual user.
+### 5. Linguistic Note on Stress
+A key feature of Dutch morphology is that the placement of stress helps identify the type of prefix.
+*   **ver-DWIJ-nen** (Stress on root) = Inseparable prefix (`ver-`).
+*   **OP-roe-pen** (Stress on prefix) = Separable prefix (`op-`).
 
-### Summary
-The word **`verdwijnen`** is a classic example of Germanic derivational morphology. It combines a directional/completive prefix (`ver-`) with an archaic root (`dwijn`, related to English *wane*) and a standard infinitive ending (`-en`) to create a verb meaning "to vanish."
+Because the stress in *verdwijnen* falls on the root (`dwijn`), it confirms that `ver-` is inseparable, which dictates how the verb is conjugated in past tense and participle forms (e.g., *verdween*, *verdwon* — no *ge-* prefix is added to the participle).

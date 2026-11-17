@@ -1,4 +1,4 @@
-From a linguistic perspective, the Dutch word **`uitgave`** is a complex noun formed through derivational morphology. It is derived from a separable verb.
+From a linguistic perspective, the Dutch word **`uitgave`** is a complex noun formed through derivational morphology. It is derived from a separable verb. Meaning "expenditure" or "expense".
 
 Here is the breakdown of the morphemes, their functions, and the phonological changes involved.
 

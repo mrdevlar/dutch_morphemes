@@ -7,10 +7,10 @@ Here is the morphological breakdown.
 ### 1. Synchronic Analysis (Modern Dutch)
 In contemporary Dutch morphology, speakers generally perceive this word as a loanword that has been integrated into the Dutch verbal system. It is treated as a single lexical root combined with a productive verbal suffix.
 
-| Morpheme | Form | Type | Function/Meaning |
-| :--- | :--- | :--- | :--- |
-| **`advis-`** | Root (Stem) | Lexical Morpheme | Carries the core semantic meaning ("advice" / "to consider"). |
-| **`-eren`** | Suffix | Derivational Morpheme | Verbalizer. Converts a noun/stem into a verb (infinitive). |
+| Morpheme     | Form        | Type                  | Function/Meaning                                              |
+| :----------- | :---------- | :-------------------- | :------------------------------------------------------------ |
+| **`advis-`** | Root (Stem) | Lexical Morpheme      | Carries the core semantic meaning ("advice" / "to consider"). |
+| **`-eren`**  | Suffix      | Derivational Morpheme | Verbalizer. Converts a noun/stem into a verb (infinitive).    |
 
 *   **Total Morphemes:** 2
 *   **Word Class:** Verb (Infinitive)

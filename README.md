@@ -2,12 +2,33 @@
 
 ## Recommended Usage
 
-Download the repo above (download source), unzip it into a folder. Install [Obsidian](https://obsidian.md/) and select the folder that you unzipped it into as the "Vault Location".
+Download the repo above (download source), unzip it into a folder or use a git client to clone it. Install [Obsidian](https://obsidian.md/) and select the folder that you unzipped it into as the "Vault Location".
 This is recommended because you can use Obsidian search functions to navigate the dictionary rather than just by filename. 
 
-## Easiest Usage
+## Web Usage
 
 Just click on the `morphemes` folder above and Github will let you see any markdown files with formatting. No installation needed.
+
+## Mobile Usage on Android with MGit and Obsidian
+
+To use this on Android Mobile, please download [MGit](https://play.google.com/store/apps/details?id=com.manichord.mgit&hl=en-US) and [Obsidian Mobile](https://play.google.com/store/apps/details?id=md.obsidian).
+It will allow you to clone the repo and pull any changes.
+
+- Launch MGit, go to the "..." and click "Settings", under "General" Click "Root Storage Location for Repos"
+- Then select `Documents`. This is required because MGit, by default, places repos in a location inaccessible by other apps.
+- Go back, go to the "+"
+- Remote URL: `https://github.com/mrdevlar/dutch_morphemes`
+- Local path: `dutch_morphemes`
+- Press "Clone"
+
+You'll now have a folder called `dutch_morphemes` in the document folder. You can click on the repo in MGit and press the icon in the top right, and press "pull" to update the morphemes at any time.
+
+- Launch Obsidian
+- Go to "Manage Vaults..."
+- Click "Open folder as vault"
+- Select the `dutch_morphemes` folder in the `Documents`
+- Wait for the index to finish building.
+- You now have a searchable dictionary on mobile.
 
 ## What is this?
 
